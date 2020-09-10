@@ -6,7 +6,7 @@ Home Credit offers easy, simple and fast loans for a range of Home Appliances, M
 
 Dataset link: https://www.kaggle.com/c/home-credit-default-risk/data
 
-# exploratory data analysis
+# Exploratory data analysis
 
 Data Exploration is an open-ended process where we calculate statistics and make figures to find trends, anomalies, patterns, or relationships within the data. The goal of Data Exploration is to learn what our data can tell us. It generally starts out with a high level overview, then narrows in to specific areas as we find intriguing areas of the data. The findings may be interesting in their own right, or they can be used to inform our modeling choices, such as by helping us decide which features to use.
 
