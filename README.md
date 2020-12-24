@@ -18,5 +18,3 @@ We use Label Encoding for any categorical variables with only 2 categories and O
 ## Built With
 
 Jupyter Notebook - Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
-
-Pandas - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
