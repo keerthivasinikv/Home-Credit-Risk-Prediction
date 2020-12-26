@@ -1,4 +1,8 @@
-# Home Credict Risk Prediction
+# Home Credict Risk Prediction | An end-to-end machine learning project
+
+Credit-lending plays a significant role in the banking sector. But the increase in non-performing loans has made the banking sector face huge losses and also has an impact on the economy of the country or the world. Thus an existential problem for any Loan provider today is to find out the Loan applicants who are very likely to repay the loan. This way companies can avoid losses and incur huge profits. 
+
+So in this project, we are going to take the loan applicant data provided by Home Credit and identify the applicants who are most likely to default using both Supervised and Unsupervised techniques.
 
 ## About Home credit 
 
