@@ -1,6 +1,6 @@
-# PWP CIA 3
+# Home Credict Risk Prediction
 
-## Home credit 
+## About Home credit 
 
 Home Credit Group is an international consumer finance provider which was founded in 1997 and has operations in 9 countries. Our responsible lending model empowers underserved customers with little or no credit history by enabling them to borrow easily and safely, both online and offline. 
 
