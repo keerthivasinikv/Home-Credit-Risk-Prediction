@@ -21,8 +21,8 @@ We use Label Encoding for any categorical variables with only 2 categories and O
 ## Supervided Learning Techniques
 
 Algorithms used:
-Logistic regression
-Random Forest
+Logistic regression <br>
+Random Forest <br><\n>
 Extreme Gradient Boost
 
 I have created base models without balancing the target class and then I have used SMOTE and Random OverSampler methods to balance the target class.
