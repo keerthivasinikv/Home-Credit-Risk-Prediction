@@ -22,7 +22,7 @@ We use Label Encoding for any categorical variables with only 2 categories and O
 
 Algorithms used:
 Logistic regression <br>
-Random Forest <br><\n>
+Random Forest <br>
 Extreme Gradient Boost
 
 I have created base models without balancing the target class and then I have used SMOTE and Random OverSampler methods to balance the target class.
