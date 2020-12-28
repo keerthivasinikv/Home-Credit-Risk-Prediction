@@ -18,6 +18,17 @@ Data Exploration is an open-ended process where we calculate statistics and make
 
 We use Label Encoding for any categorical variables with only 2 categories and One-Hot Encoding for any categorical variables with more than 2 categories.
 
+## Supervided Learning Techniques
+
+Algorithms used:
+Logistic regression
+Random Forest
+Extreme Gradient Boost
+
+I have created base models without balancing the target class and then I have used SMOTE and Random OverSampler methods to balance the target class.
+
+XGBoost model balanced using Random OverSampler method gave better accuracy and ROC AUC score.
+
 ## Built With
 
 Jupyter Notebook - Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
