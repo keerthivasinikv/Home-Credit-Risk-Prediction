@@ -29,7 +29,7 @@ I have created base models without balancing the target class and then I have u
 
 XGBoost model balanced using Random OverSampler method gave better accuracy and ROC AUC score.
 
-## Unsupervised Learning Technique (Anomaly detection)
+## Unsupervised Learning Technique (Anomaly Detection)
 
 ### Using Scikit-Learn library 
 
