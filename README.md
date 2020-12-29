@@ -29,6 +29,16 @@ I have created base models without balancing the target class and then I have u
 
 XGBoost model balanced using Random OverSampler method gave better accuracy and ROC AUC score.
 
+## Unsupervised Learning Technique (Anomaly detection)
+
+### Using Scikit-Learn library 
+
+Algorithms used:  <br>
+Isolation Forest  <br>
+Local Outlier Factor  <br>
+Principal Component Analysis (PCA)  <br>
+Kernel Principal Component Analysis (Kernel PCA)
+
 ## Built With
 
 Jupyter Notebook - Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
