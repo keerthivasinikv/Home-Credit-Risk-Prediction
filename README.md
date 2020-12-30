@@ -31,6 +31,12 @@ XGBoost model balanced using Random OverSampler method gave better accuracy andÂ
 
 ## Unsupervised Learning Technique (Anomaly Detection)
 
+### Anomaly Detection
+
+In data analysis, anomaly detection (also outlier detection) is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data.
+
+Here the defaults being 8.07%, they act as an anomaly.
+
 ### Using Scikit-Learn library 
 
 Algorithms used:  <br>
