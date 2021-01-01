@@ -4,7 +4,7 @@ Credit-lending plays a significant role in the banking sector. But the increase 
 
 So in this project, we are going to take the loan applicant data provided by Home Credit and identify the applicants who are most likely to default using both Supervised and Unsupervised techniques.
 
-## About Home credit 
+## About Home Credit 
 
 Home Credit Group is an international consumer finance provider which was founded in 1997 and has operations in 9 countries. Our responsible lending model empowers underserved customers with little or no credit history by enabling them to borrow easily and safely, both online and offline. 
 
@@ -44,6 +44,11 @@ Isolation Forest  <br>
 Local Outlier Factor  <br>
 Principal Component Analysis (PCA)  <br>
 Kernel Principal Component Analysis (Kernel PCA)
+
+
+### Using PyOD library 
+
+Coming soon
 
 ## Built With
 
