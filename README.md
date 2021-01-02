@@ -48,7 +48,13 @@ Kernel Principal Component Analysis (Kernel PCA)
 
 ### Using PyOD library 
 
-Coming soon
+Algorithms used:<br>
+k-nearest neighbors <br>
+Isolation Forest<br>
+Local Outlier Factor<br>
+Clustering-Based Local Outlier Factor<br>
+Principal Component Analysis <br>
+Histogram-based Outlier Score<br>
 
 ## Built With
 
