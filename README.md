@@ -25,8 +25,7 @@ Logistic regression <br>
 Random Forest <br>
 Extreme Gradient Boost
 
-We have created base models without balancing the target class and then We have used SMOTE and Random OverSampler methods to balance the target class.
-
+We have created base models without balancing the target class and then We have used SMOTE and Random OverSampler methods to balance the data.
 XGBoost model balanced using Random OverSampler method gave better accuracy and ROC AUC score.
 
 ## Unsupervised Learning Technique (Anomaly Detection)
