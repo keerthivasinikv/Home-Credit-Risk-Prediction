@@ -46,7 +46,7 @@ Principal Component Analysis (PCA)  <br>
 Kernel Principal Component Analysis (Kernel PCA)
 
 
-### Using PyOD library 
+### Using Python Outlier Detection (PyOD) Toolkit library 
 
 Algorithms used:<br>
 k-nearest neighbors <br>
