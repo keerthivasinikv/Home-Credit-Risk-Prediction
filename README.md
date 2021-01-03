@@ -18,7 +18,7 @@ Data Exploration is an open-ended process where we calculate statistics and make
 
 We use Label Encoding for any categorical variables with only 2 categories and One-Hot Encoding for any categorical variables with more than 2 categories.
 
-## Supervided Learning Techniques
+## Supervised Learning Techniques
 
 Algorithms used: <br>
 Logistic regression <br>
