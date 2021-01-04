@@ -56,5 +56,14 @@ Principal Component Analysis <br>
 Histogram-based Outlier Score<br>
 
 ## Built With
-
-Jupyter Notebook - Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
+•	pandas - Pandas is used for data cleaning and analysis. Its features were used for exploring, cleaning, transforming and visualizing the data. Also Pandas is an open-source python package built on top of Numpy. <br>
+•	numpy - Numpy adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.<br>
+•	Matplotlib - Matplotlib work like MATLAB that helps in data visualization to makes some change to a figure: e.g., creates a figure, creates a plotting area in a figure, plots some lines in a plotting area, decorates the plot with labels, etc.<br>
+•	seaborn - Seaborn is also used for data visualization and it is based on matplotlib. It provides a high-level interface for attractive and informative statistical graphics.<br>
+•	imblearn- imbalanced-learn is a python package offering a number of re-sampling techniques.<br>
+•	Sklearn - Scikit-learn is a free machine learning library for the Python. It features various classification algorithms including Logistic regression, Random forest and XGBoost which were used in this project. It also helps in calculating the metrics such as classification report, accuracy score, f1 score, roc auc score and confusion matrix.<br>
+•	Pyod - PyOD is a comprehensive and scalable toolkit for detecting outlying objects in multivariate data. This field is commonly referred as Outlier Detection or Anomaly Detection. PyOD includes more than 30 detection algorithms.
+•	Flask - Flask is a lightweight Web Server Gateway Interface web application framework.<br>
+•	sqlalchemy - SQLAlchemy is an open-source SQL toolkit and object-relational mapper for the Python programming language.<br>
+•	logging - Python has a built-in logging module which allows writing status messages to a file. The file can contain the information on which part of the code is executed and what problems have been arisen.<br>
+•	Jupyter Notebook - Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
