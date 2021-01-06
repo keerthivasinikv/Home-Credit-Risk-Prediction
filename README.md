@@ -55,6 +55,10 @@ Clustering-Based Local Outlier Factor<br>
 Principal Component Analysis <br>
 Histogram-based Outlier Score<br>
 
+### Deployment
+
+Link: https://loan-default-prediction-by-kv.herokuapp.com/
+
 ## Built With
 •	pandas - Pandas is used for data cleaning and analysis. Its features were used for exploring, cleaning, transforming and visualizing the data. Also Pandas is an open-source python package built on top of Numpy. <br>
 •	numpy - Numpy adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.<br>
