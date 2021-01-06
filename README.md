@@ -36,24 +36,39 @@ In data analysis, anomaly detection (also outlier detection) is the identificati
 
 Here the defaults being 8.07%, they act as an anomaly.
 
+We have used the following Machine learning algorithms and built Anomaly detection models for our Unsupervised classification
+
 ### Using Scikit-Learn library 
 
-Algorithms used:  <br>
-Isolation Forest  <br>
-Local Outlier Factor  <br>
-Principal Component Analysis (PCA)  <br>
-Kernel Principal Component Analysis (Kernel PCA)
+#### Outlier Ensembles <br>
+1) Isolation Forest
+
+#### Proximity-Based <br>
+2) Local Outlier Factor <br>
+
+#### Linear Model <br>
+3) Principal Component Analysis
+
+#### Non - Linear Model <br>
+4) Kernal Principal Component Analysis
 
 
 ### Using Python Outlier Detection (PyOD) Toolkit library 
 
-Algorithms used:<br>
-k-nearest neighbors <br>
-Isolation Forest<br>
-Local Outlier Factor<br>
-Clustering-Based Local Outlier Factor<br>
-Principal Component Analysis <br>
-Histogram-based Outlier Score<br>
+#### Outlier Ensembles <br>
+1) Isolation Forest
+
+#### Proximity-Based <br>
+2) Local Outlier Factor <br>
+3) Clustering-Based Local Outlier Factor <br>
+4) Histogram-based Outlier Score <br>
+5) k Nearest Neighbors (using the distance to the kth nearest neighbor as the outlier score)
+
+#### Linear Model <br>
+6) Principal Component Analysis
+
+#### Non - Linear Model <br>
+7) Kernal Principal Component Analysis
 
 ### Deployment
 
