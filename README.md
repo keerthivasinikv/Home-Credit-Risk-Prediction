@@ -12,13 +12,13 @@ Home Credit offers easy, simple and fast loans for a range of Home Appliances, M
 
 Dataset link: https://www.kaggle.com/c/home-credit-default-risk/data
 
-## Exploratory Data Analysis
+## [Exploratory Data Analysis](https://github.com/keerthivasinikv/Home-Credit-Risk-Prediction/blob/master/EDA.ipynb)
 
 Data Exploration is an open-ended process where we calculate statistics and make figures to find trends, anomalies, patterns, or relationships within the data. The goal of Data Exploration is to learn what our data can tell us. It generally starts out with a high level overview, then narrows in to specific areas as we find intriguing areas of the data. The findings may be interesting in their own right, or they can be used to inform our modeling choices, such as by helping us decide which features to use.
 
 We use Label Encoding for any categorical variables with only 2 categories and One-Hot Encoding for any categorical variables with more than 2 categories.
 
-## Supervised Learning Techniques
+## [Supervised Learning Techniques](https://github.com/keerthivasinikv/Home-Credit-Risk-Prediction/blob/master/Unsupervised%20using%20Scikit.ipynb)
 
 Algorithms used: <br>
 Logistic regression <br>
@@ -53,7 +53,7 @@ We have used the following Machine learning algorithms and built Anomaly detecti
 4) Kernal Principal Component Analysis
 
 
-### Using Python Outlier Detection (PyOD) Toolkit library 
+### [Using Python Outlier Detection (PyOD) Toolkit library](https://github.com/keerthivasinikv/Home-Credit-Risk-Prediction/blob/master/Unsupervised%20using%20PyOD.ipynb) 
 
 #### Outlier Ensembles <br>
 1) Isolation Forest
@@ -70,7 +70,7 @@ We have used the following Machine learning algorithms and built Anomaly detecti
 #### Non - Linear Model <br>
 7) Kernal Principal Component Analysis
 
-### Deployment
+### [Deployment](https://github.com/keerthivasinikv/Home-Credit-Risk-Prediction/tree/master/Web%20app)
 
 Link: https://loan-default-prediction-by-kv.herokuapp.com/
 
