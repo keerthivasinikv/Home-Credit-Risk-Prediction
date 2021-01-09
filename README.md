@@ -38,7 +38,7 @@ Here the defaults being 8.07%, they act as an anomaly.
 
 We have used the following Machine learning algorithms and built Anomaly detection models for our Unsupervised classification
 
-### Using Scikit-Learn library 
+### [Using Scikit-Learn library](https://github.com/keerthivasinikv/Home-Credit-Risk-Prediction/blob/master/Unsupervised%20using%20Scikit.ipynb)
 
 #### Outlier Ensembles <br>
 1) Isolation Forest
